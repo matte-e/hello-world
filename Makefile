@@ -1,4 +1,4 @@
-CC=clang++
+CC=clang++-3.5
 CFLAGS=-Wall -stdlib=libstdc++ -std=c++14
 LDFLAGS=
 
