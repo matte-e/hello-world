@@ -1,5 +1,5 @@
-CC=clang++-3.5
-CFLAGS=-Wall -stdlib=libstdc++ -std=c++14
+CC=clang++-libc++
+CFLAGS=-Wall -std=c++14
 LDFLAGS=
 
 SOURCES=main.cpp test.cpp
